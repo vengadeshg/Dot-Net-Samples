@@ -1,1 +1,1 @@
-web: src/bin/MvcApplication1.dll
+web: ./mono-build/bin/mono src/bin/About.aspx
