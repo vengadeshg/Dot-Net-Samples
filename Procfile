@@ -1,2 +1,2 @@
-web: ./mono-build/bin/mono src/bin/Debug/ConsoleApplication2.exe
-local: ./mono-build/bin/mono src/bin/Debug/ConsoleApplication2.exe
+web: ./mono-build/bin/mono src/bin/Debug/src.exe
+local: ./mono-build/bin/mono src/bin/Debug/src.exe

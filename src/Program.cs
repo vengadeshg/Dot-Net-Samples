@@ -3,14 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace ConsoleApplication2
+namespace src
 {
     class Program
     {
         static void Main(string[] args)
         {
             Class1 obj = new Class1();
-            obj.mer();
+            obj.met();
         }
     }
 }

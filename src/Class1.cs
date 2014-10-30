@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace ConsoleApplication2
+namespace src
 {
    public class Class1
     {
-       public void mer()
+       public void met()
        {
            Console.WriteLine("Venkatesh");
            Console.ReadLine();
