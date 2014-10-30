@@ -1,7 +1,0 @@
-c:\users\cvhs2\documents\visual studio 2013\Projects\src\src\bin\Debug\src.exe
-c:\users\cvhs2\documents\visual studio 2013\Projects\src\src\bin\Debug\src.pdb
-c:\users\cvhs2\documents\visual studio 2013\Projects\src\src\obj\Debug\src.csprojResolveAssemblyReference.cache
-c:\users\cvhs2\documents\visual studio 2013\Projects\src\src\obj\Debug\src.exe
-c:\users\cvhs2\documents\visual studio 2013\Projects\src\src\obj\Debug\src.pdb
-C:\Users\CVHS2\Desktop\Dot Net Projects\src\obj\Debug\src.exe
-C:\Users\CVHS2\Desktop\Dot Net Projects\src\obj\Debug\src.pdb
