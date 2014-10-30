@@ -1,2 +1,1 @@
-web: ./mono-build/bin/mono src/bin/Nancy.Demo.Hosting.Self.exe
-local: mono src/bin/Nancy.Demo.Hosting.Self.exe
+web: src/bin/MvcApplication1.dll
