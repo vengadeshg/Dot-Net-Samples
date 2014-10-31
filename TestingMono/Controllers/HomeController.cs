@@ -6,7 +6,7 @@ namespace TestingMono.Controllers
 	{
 		public ActionResult Index()
 		{
-			return Content("Hello world.");
+			return Content("Asp.Net MVC application created by venkatesh");
 		}
 	}
 }
